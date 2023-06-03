@@ -18,6 +18,13 @@ public class C01_HelloWorld {
             // 4 ile 5'i toplayip yazdirin
             // matematiksel islemlerde "" kullanilmaz
             System.out.println(4 + 5);
+
+
+            System.out.print("1");
+            System.out.print("2");
+            System.out.println("3");
+            System.out.println();
+            System.out.println("4");
         }
     }
 
