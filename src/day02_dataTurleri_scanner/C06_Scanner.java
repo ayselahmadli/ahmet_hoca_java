@@ -10,6 +10,8 @@ public class C06_Scanner {
         System.out.println("Lutfen bir tam sayi giriniz");
         int tamSayi= scanner.nextInt();
         System.out.println("Girilen sayilarin toplami : "+ (ondalikliSayi+tamSayi));
-        System.out.println("Girilen sayilarin carpimi : "+ondalikliSayi*tamSayi);
+        System.out.println("Girilen sayilarin carpimi : "+ (ondalikliSayi*tamSayi));
+
     }
+
 }

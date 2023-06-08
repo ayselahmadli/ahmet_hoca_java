@@ -12,7 +12,7 @@ public class C01_Constructors {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        List<String>                            isimler   =   new      ArrayList<>();
+        List<String>  isimler = new ArrayList<>();
 
         // olusturmak istedigimiz datanin turu    obje ismi  = keyword     Constructor
 

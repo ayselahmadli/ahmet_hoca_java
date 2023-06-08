@@ -5,7 +5,7 @@ public class C02_Assignment {
         // Java deger atanmadan
         // bir variable olusturulmasina izin verir
         // ama deger atanmadan kullanmaya izin vermez
-        // System.out.println(sayi);
+       // System.out.println(sayi);
         sayi = 20;
         System.out.println(sayi); // 20
         sayi = sayi + 10 ;
